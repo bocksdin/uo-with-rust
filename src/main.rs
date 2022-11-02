@@ -1,6 +1,4 @@
-mod weapon_ability;
 mod server;
+mod weapon_ability;
 
-fn main() {
-  
-}
+fn main() {}

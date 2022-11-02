@@ -1,3 +1,3 @@
 pub struct IArtifact {
-  pub artifact_rarity: i32,
+    pub artifact_rarity: i32,
 }
